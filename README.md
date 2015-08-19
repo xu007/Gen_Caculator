@@ -1,4 +1,4 @@
-# Gen_Caculator
+# Gen_Calculator
 A simple caculator with a function that accepts a string and returns an integer. 
 
 This function will parse the string as an expression that contains any of:
